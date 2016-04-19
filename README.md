@@ -12,33 +12,22 @@ Secondly, you should give the number of pictures you want to use which should be
 
 Finally, you will get these pictures:
 
-SourePic:
-
 ![SourePic](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/22.jpg)
 
-Face:
 ![Face](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/face.jpg)
 
-Brows:
 ![Brows](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/brows.jpg)
 
-leftBrow:
 ![leftBrow](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/leftBrow.jpg)
 
-rightBrow:
 ![rightBrow](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/rightBrow.jpg)
 
-Eyes:
 ![Eyes](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/eyes.jpg)
 
-leftEye:
 ![leftEye](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/leftEye.jpg)
 
-rightEye:
 ![rightEye](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/rightEye.jpg)
 
-nose:
 ![nose](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/nose.jpg)
 
-mouth:
 ![mouth](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/mouth.jpg)
