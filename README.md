@@ -13,6 +13,7 @@ Secondly, you should give the number of pictures you want to use which should be
 Finally, you will get these pictures:
 
 SourePic:
+
 ![SourePic](http://7xr8d2.com1.z0.glb.clouddn.com/AutoFaceSegmentation/jpg/22.jpg)
 
 Face:
